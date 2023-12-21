@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sajeet07.Sajeet07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Suman+Devkota!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sajeet+Gurung!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Nepal.</h3>
@@ -21,10 +21,10 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:sumandevkota75@gmail.com">
+  <a href="mailto:sajitgurung829@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://stackoverflow.com/users/19528574/suman-devkota" target="_blank">
+  <a href="https://stackoverflow.com/users/22051889/sajeet-gurung-sg" target="_blank">
     <img src="https://img.shields.io/badge/StackOverFlow-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <!-- <a href="https://salesp07.github.io" target="_blank">
