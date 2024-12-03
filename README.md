@@ -10,9 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **YHH IT Solutions**
+ 🔭 I have done internship as a flutter developer at **YHH IT Solutions in 2024 **
+
+ 🔭 I have done internship as a full stack developer at **X Dezo Academy in 2022*
  
- 🌱 I’m currently learning **Java, Wordpress, AWS**
+ 🌱 I’m currently learning **UI/UX DESIGN**
 
 💬 Ask me about **PHP, Flutter, Firebase or anything [here](https://github.com/Sajeet07/Sajeet07/issues)**
 
